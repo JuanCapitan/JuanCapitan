@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanCapitan  
 - 👀 I’m interested in Cybersecurity, Ethical Hacking, Python Development, and Security Engineering 
-- 🌱 I’m currently learning professional Python for Cybersecurity (Scripting, Networking, Automation, Forensics, Malware Analysis)  
+- 🌱 I’m currently learning professional Python, Powershell and Bash for Cybersecurity (Scripting, Networking, Automation, Forensics, Malware Analysis)  
 - 💻 I build my own tools using Python: scanners, brute forcers, ciphers, and log analyzers  
 - 🔐 I’m passionate about Red Team and Blue Team strategies, and I love solving challenges on platforms like LeetCode and tryhackme
 - 🤝 I’m looking to collaborate on security-related open source tools and data-driven security projects  
